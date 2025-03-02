@@ -1,0 +1,11 @@
+{
+	"id": "translate-sunda",
+	"name": "Sundanese Translation",
+	"version": "1.0.0",
+	"description": [
+		"Unofficial sundanese translation"
+	],
+	"author": "fahrimz",
+	"load_before": [],
+	"load_after": []
+}
